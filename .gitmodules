@@ -1,3 +1,6 @@
 [submodule "Problem1"]
 	path = Problem1
 	url = https://github.com/SRV332003/XDP_eBPF
+[submodule "Problem2"]
+	path = Problem2
+	url = https://github.com/SRV332003/XDP_eBPF2
